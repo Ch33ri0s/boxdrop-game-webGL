@@ -1,0 +1,13 @@
+{
+"companyName": "Syphix Designs",
+"productName": "Box Drop",
+"dataUrl": "Build-1.0.1.data.unityweb",
+"asmCodeUrl": "Build-1.0.1.asm.code.unityweb",
+"asmMemoryUrl": "Build-1.0.1.asm.memory.unityweb",
+"asmFrameworkUrl": "Build-1.0.1.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
